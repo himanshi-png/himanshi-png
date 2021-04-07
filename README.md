@@ -23,6 +23,7 @@
  - MS Word
  
  ## Projects 
+ 
  **Some of the projects that I have done in Python are:**
  - <a href="https://github.com/himanshi-png/bikeshare/"> Bikeshare Data Analysis </a>
  - <a href="https://github.com/himanshi-png/Netflix-Data-Analysis/"> Netflix Data Analysis </a>
