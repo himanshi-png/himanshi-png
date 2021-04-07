@@ -22,7 +22,7 @@
  - MS Powerpoint
  - MS Word
  
- ## Projects ##
+ **## Projects **
  
  **Some of the projects that I have done in Python are:**
  - <a href="https://github.com/himanshi-png/bikeshare/"> Bikeshare Data Analysis </a>
