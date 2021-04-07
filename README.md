@@ -8,13 +8,16 @@
  - Goal seek, solver and charts
  - Filtering, sorting, subtotal, pivot table and conditional fprmatting
  - Cell references, paste special 
- - Fomula and functions - Mathematical, statistical, logical, conditional, lookup, array, date and time
+ - Fomula and functions - Mathematical, statistical, logical, conditional, lookup, array, date and time 
+ 
 **2. MySQL**
  - Aggregation functions, logical operators, comparison operators
  - Window functions 
  - Subqueries
+ 
 **3. Python**
  - Numpy, pandas, seaborn and matplotlib 
+ 
 **4. MS Office**
  - MS Powerpoint
  - MS Word
