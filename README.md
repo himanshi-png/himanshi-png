@@ -24,10 +24,7 @@
  
  ## Projects 
  **Some of the projects that I have done in Python are:**
- - <a href="https://github.com/himanshi-png/bikeshare/"> Bikeshare Data Analysis </a>
- - <a href="https://github.com/himanshi-png/Netflix-Data-Analysis/"> Netflix Data Analysis </a>
- - <a href= "https://github.com/himanshi-png/Superstore_Data_Analysis/">Superstore Data Analysis </a>
- - <a href= "https://github.com/himanshi-png/K-Means_Iris_Dataset/"> K_Means_Cluser_Analysis </a>
+
 
 <!--
 **himanshi-png/himanshi-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
