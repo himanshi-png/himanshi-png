@@ -22,7 +22,6 @@
  - MS Powerpoint
  - MS Word
  
-
 ## Projects
 **Some of the projects that I have done in Python are:**
 * [Bike Share Data Analysis](https://github.com/himanshi-png/Bikeshare-Data-Analysis)
