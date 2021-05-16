@@ -24,7 +24,7 @@
  
 ## Projects
 **Some of the projects that I have done in Python are:**
-* [Bike Share Data Analysis](https://github.com/himanshi-png/Bikeshare-Data-Analysis)
+* [Bike Share Data Analysis](https://himanshi-png.github.io/Bikeshare-Data-Analysis/)
 * [Netflix Data Analysis](https://github.com/himanshi-png/Netflix-Data-Analysis)
 * [Superstore Data Analysis](https://github.com/himanshi-png/Superstore_Data_Analysis)
 * [Prediction using Unsupervised ML](https://github.com/himanshi-png/K-Means_Iris_Dataset)
