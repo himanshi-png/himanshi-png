@@ -24,7 +24,7 @@
  
  ## Projects 
  **Some of the projects that I have done in Python are:**
-
+* [Netflix Data Analysis] (https://github.com/himanshi-png/Netflix-Data-Analysis)
 
 <!--
 **himanshi-png/himanshi-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
