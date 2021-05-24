@@ -1,6 +1,6 @@
 # Himanshi Khatwani
 ## About me
-<p>I am a final year BSc. (Bachelor of Science- Statistics) student, aspiring to be a business analyst. I have great writinng and oral communication skills and can levrage my MySQL knowledge for the cost effective business operations. I am exploring opportunity to demonstrate my business accumen and apply my skills in industry</p>
+<p>I am a final year BSc. (Bachelor of Science- Statistics) student, aspiring to be a business analyst. I have great writing and oral communication skills and can levrage my MySQL knowledge for the cost effective business operations. I am exploring opportunity to demonstrate my business accumen and apply my skills in industry</p>
 
 ## Skills
 **1. Advanced Excel**
